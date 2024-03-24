@@ -15,7 +15,7 @@ ___
 - day12-网络编程,JUnit单元测试,设计模式
 - day13-云盘
 #### 学习进度
-$`\text{知识增量} = \text{学习流量} \times \text{知识质量} \times (\text{技能树构建} + \text{深度思路} + \text{刻意练习})
+$`\Delta K_{\text{知识增量}} = \text{学习流量} \times \text{知识质量} \times (\text{技能树构建} + \text{深度思路} + \text{刻意练习})
 `$
 1. 开始时间:`3月25日`
 - > Day01:
