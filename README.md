@@ -23,7 +23,7 @@ ___
 
 |学习日期|学习内容|完成度|笔记|补充|
 |---|---|---|---|---|
-|`3月25日`|Day01的封装|50%|[笔记](https://github.com/EthanLiu6/JavaCode_SE_Advance/blob/ethanliu/notes.md)|早上学了,但下午状态很差,未学习|
+|`3月25日`|Day01的封装|50%|[笔记](https://github.com/EthanLiu6/JavaCode_SE_Advance/blob/ethanliu/Day01/notes.md)|早上学了,但下午状态很差,未学习|
 |`3月26日`|Day01的封装|100%|||
 |`3月27日`|Day02|||
 |`3月28日`||||
