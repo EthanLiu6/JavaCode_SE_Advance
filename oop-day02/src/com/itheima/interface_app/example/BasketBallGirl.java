@@ -1,5 +1,8 @@
 package com.itheima.interface_app.example;
 
-//篮球女孩（子类）
-public class BasketBallGirl {
+public class BasketBallGirl extends Girl implements PlayBasketBall{
+    @Override
+    public void play() {
+        System.out.println("女孩打篮球");
+    }
 }
