@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day01/Day01.iml" filepath="$PROJECT_DIR$/Day01/Day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCode_SE_Advance.iml" filepath="$PROJECT_DIR$/.idea/JavaCode_SE_Advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-day01/oop-day01.iml" filepath="$PROJECT_DIR$/oop-day01/oop-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-day02/oop-day02.iml" filepath="$PROJECT_DIR$/oop-day02/oop-day02.iml" />
     </modules>
   </component>
 </project>

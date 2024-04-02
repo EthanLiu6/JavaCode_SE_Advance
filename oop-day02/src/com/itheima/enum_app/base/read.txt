@@ -1,0 +1,10 @@
+Compiled from "Signal.java"
+public final class com.itheima.enum_app.base.Signal extends java.lang.Enum<com.itheima.enum_app.base.Signal> {
+  public static final com.itheima.enum_app.base.Signal GREEN;
+  public static final com.itheima.enum_app.base.Signal YELLOW;
+  public static final com.itheima.enum_app.base.Signal RED;
+  private static final com.itheima.enum_app.base.Signal[] $VALUES;
+  public static com.itheima.enum_app.base.Signal[] values();
+  public static com.itheima.enum_app.base.Signal valueOf(java.lang.String);
+  private com.itheima.enum_app.base.Signal();
+  static {};
