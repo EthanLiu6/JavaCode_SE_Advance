@@ -31,6 +31,7 @@ $`\Delta K_{\text{知识增量}} = FL_{\text{学习流量}} \times Q_{\text{知�
 |`4月1日`|Day02|55%|[笔记](Notes/02_JavaSE进阶-代码块,接口,枚举.md)|关键字`AND`代码块|
 |`4月2日`|Day02|95%|[笔记](Notes/02_JavaSE进阶-代码块,接口,枚举.md)|接口`AND`枚举|
 |`4月4日`|Day03|45%|[笔记](Notes/03_JavaSE进阶-多态,内部类.md)|继承`AND`匿名内部类|
-|`4月5日`|Day03|50%|[笔记](Notes/03_JavaSE进阶-多态,内部类.md)|Object类`AND`DATE类 |
+|`4月5日`|Day03|50%|[笔记](Notes/03_JavaSE进阶-多态,内部类.md)|Object类`AND`DATE类|
+|`4月5日`|Day04|40%|[笔记](Notes/04_JavaSE进阶-正则,Collection集合.md)|API`AND`包装类|
 
 
