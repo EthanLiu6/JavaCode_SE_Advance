@@ -20,7 +20,7 @@ ___
 > ### 学习进度
 
 #### ✅ 我的学习公式
-$`\Delta K_{\text{知识增量}} = FL_{\text{学习流量}} \times Q_{\text{知识质量}} \times (TS_{\text{技能树构建}} + DS_{\text{深度思路}} + EP_{\text{刻意练习}} + KS_{\text{知识总结}})
+$`\Delta K_{\text{知识增量}} = FL_{\text{学习流量}} \times Q_{\text{知识质量}} \times (TS_{\text{技能树构建}} + DS_{\text{深度思考}} + EP_{\text{刻意练习}} + KS_{\text{知识总结}})
 `$
 
 #### ✅ 进度表
