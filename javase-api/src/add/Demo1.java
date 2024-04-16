@@ -8,7 +8,7 @@ package add;
  */
 public class Demo1 {
     public static void main(String[] args) {
-        // 增强for
+        // 增强for, 不可增删
         String[] strs = {"asd", "Ethan", "Qiu", "java"};
         for (String str: strs){
             System.out.println(str);
