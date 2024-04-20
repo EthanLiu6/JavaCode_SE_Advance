@@ -32,8 +32,8 @@ $`\Delta K_{\text{知识增量}} = FL_{\text{学习流量}} \times Q_{\text{知�
 |`4月2日`|Day02|95%|[笔记](https://ethanliu6.github.io/2024/04/01/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day02/day02_JavaSE%E8%BF%9B%E9%98%B6-%E4%BB%A3%E7%A0%81%E5%9D%97,%E6%8E%A5%E5%8F%A3,%E6%9E%9A%E4%B8%BE/)|接口`AND`枚举|
 |`4月4日`|Day03|45%|[笔记](https://ethanliu6.github.io/2024/04/04/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day03/day03_JavaSE%E8%BF%9B%E9%98%B6-%E5%A4%9A%E6%80%81,%E5%86%85%E9%83%A8%E7%B1%BB/)|继承`AND`匿名内部类|
 |`4月5日`|Day03|50%|[笔记](https://ethanliu6.github.io/2024/04/04/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day03/day03_JavaSE%E8%BF%9B%E9%98%B6-%E5%A4%9A%E6%80%81,%E5%86%85%E9%83%A8%E7%B1%BB/)|Object类`AND`DATE类|
-|`4月5日`|Day04|40%|[笔记](https://ethanliu6.github.io/2024/04/19/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day04/day04_JavaSE%E8%BF%9B%E9%98%B6-%E6%AD%A3%E5%88%99,Collection%E9%9B%86%E5%90%88/)|API`AND`包装类|
-|`4月17日`|Day04|95%|[笔记](https://ethanliu6.github.io/2024/04/19/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day04/day04_JavaSE%E8%BF%9B%E9%98%B6-%E6%AD%A3%E5%88%99,Collection%E9%9B%86%E5%90%88/)|Collection类|
+|`4月5日`|Day04|40%|[笔记](https://ethanliu6.github.io/2024/04/06/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day04/day04_JavaSE%E8%BF%9B%E9%98%B6-%E6%AD%A3%E5%88%99,Collection%E9%9B%86%E5%90%88/)|API`AND`包装类|
+|`4月17日`|Day04|95%|[笔记](https://ethanliu6.github.io/2024/04/06/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day04/day04_JavaSE%E8%BF%9B%E9%98%B6-%E6%AD%A3%E5%88%99,Collection%E9%9B%86%E5%90%88/)|Collection类|
 |`4月19日`|Day05|40%|[笔记](https://ethanliu6.github.io/2024/04/19/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day05/Day05.%E6%B3%9B%E5%9E%8B%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81List%E9%9B%86%E5%90%88%E3%80%81Set%E9%9B%86%E5%90%88/)|泛型`AND`数据结构概述|
 |`4月20日`|Day05|100%|[笔记](https://ethanliu6.github.io/2024/04/19/JavaNotes/JavaSE%E8%BF%9B%E9%98%B6/day05/Day05.%E6%B3%9B%E5%9E%8B%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81List%E9%9B%86%E5%90%88%E3%80%81Set%E9%9B%86%E5%90%88/)|栈、队列、哈希表|
 
